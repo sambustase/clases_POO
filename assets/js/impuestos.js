@@ -13,8 +13,8 @@ class Impuestos {
     get deducciones(){
         return this._deducciones;
     } 
-    set deducciones(nuevoDeducciones){
-        this._deducciones = nuevoDeducciones;
+    set deducciones(nuevaDeduccion){
+        this._deducciones = nuevaDeduccion;
     }
 }
 
